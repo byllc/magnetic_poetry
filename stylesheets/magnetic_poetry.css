@@ -1,0 +1,27 @@
+.magnet
+{
+	cursor: move;
+	background-color: #000000;  
+	color: #ffffff;
+	padding-left: 5px;  
+	padding-right: 5px;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	font-weight: bold;
+	border: 1px inset #ffffff; 
+}        
+                
+.magnet_up
+{
+	border: 2px outset yellow;
+}
+
+#fridge
+{
+	margin-top: 10px;
+	width: 400px;
+	height: 600px; 
+	border: 1px solid;
+	padding: 5px;
+	
+}
